@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "/namane-check/",
   "short_name": "나만의 체크",
-  "start_url": "/namane-chack/",
+  "start_url": "/namane-check/",
   "theme_color": "#ffe875",
   "id": "namane-check",
   "description": "매일 목표를 체크하고 달성률을 확인하는 나만의 목표 관리 앱입니다.",
