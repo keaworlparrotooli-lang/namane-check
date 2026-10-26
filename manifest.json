@@ -1,0 +1,13 @@
+{
+  "background_color": "#fff7bf",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "나만의 체크",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "나만의 체크",
+  "start_url": "/",
+  "theme_color": "#ffe875",
+  "id": "namane-check",
+  "description": "매일 목표를 체크하고 달성률을 확인하는 나만의 목표 관리 앱입니다."
+}
